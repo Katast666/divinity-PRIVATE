@@ -1,0 +1,5 @@
+colorama
+terminaltables
+configparser
+requests
+discord-webhook
